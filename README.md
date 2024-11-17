@@ -15,5 +15,5 @@ This project demonstrates a real-time face recognition system using the InsightF
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-recognition.git
-   cd face-recognition
+   git clone https://github.com/Ankush251992/Real-Time-Face-Recognition-with-Age-and-Gender-Prediction.git
+   cd Real-Time-Face-Recognition-with-Age-and-Gender-Prediction
